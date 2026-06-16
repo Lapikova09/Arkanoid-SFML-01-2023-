@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\user\Desktop\ШАГ ДЗ\SFML_breakout\ball.h(16,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\Desktop\ШАГ ДЗ\SFML_breakout\main.cpp(14,27): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\user\Desktop\ШАГ ДЗ\SFML_breakout\main.cpp(14,13): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  SFML_breakout.vcxproj -> C:\Users\user\Desktop\ШАГ ДЗ\SFML_breakout\x64\Debug\SFML_breakout.exe
